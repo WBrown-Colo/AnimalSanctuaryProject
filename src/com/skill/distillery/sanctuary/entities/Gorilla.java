@@ -8,8 +8,6 @@ public class Gorilla extends Animal {
 		System.out.println(noise);
 	}
 	
-	
-	
 	@Override
 	public void eat(int amount) {
 		makeNoise();
