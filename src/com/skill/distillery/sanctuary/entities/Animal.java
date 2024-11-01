@@ -1,5 +1,5 @@
 package com.skill.distillery.sanctuary.entities;
 
-public class Animal {
+private String Animal {
 
 }
