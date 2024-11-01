@@ -11,6 +11,6 @@ public class Gorilla extends Animal {
 	@Override
 	public void eat(int amount) {
 		makeNoise();
-		System.out.println("WHERE'S THE BEEF?" + " Gorilla eats " + amount + " heads of lettuce");
+		System.out.println("WHERE'S THE BEEF?" + " Gorilla eats " + amount + " heads of lettuce.");
 	}
 }

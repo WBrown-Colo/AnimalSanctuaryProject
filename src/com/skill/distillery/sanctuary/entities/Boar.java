@@ -11,7 +11,7 @@ public class Boar extends Animal {
 	@Override
 	public void eat(int amount) {
 		makeNoise();
-		System.out.println("I LOVE MEAL TIME!" + " Boar eats " + amount + " corn on the cob");
+		System.out.println("I LOVE MEAL TIME!" + " Boar eats " + amount + " corn on the cob.");
 	}
 
 }
