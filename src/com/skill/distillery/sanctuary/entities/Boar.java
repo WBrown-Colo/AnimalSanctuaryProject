@@ -1,5 +1,5 @@
 package com.skill.distillery.sanctuary.entities;
 
-public class Gorilla extends Animal{
+public class Boar extends Animal {
 
 }
