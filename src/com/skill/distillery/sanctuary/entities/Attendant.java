@@ -8,7 +8,7 @@ public class Attendant {
 
 		for (Animal animal : animals) {
 			if (animal != null) {
-				int amount = 4;
+				int amount = 5;
 				System.out.println("I will feed " + animal.getName() + " " + amount + " units of food.");
 				animal.eat(amount);
 				System.out.println();
