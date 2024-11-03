@@ -6,12 +6,15 @@ The AnimalSanctuaryProject is a user input application designed to keep track of
 ### How to Run
 The application provides the following terminal input options:
 
--1: List the animals
--2: Add an animal
+1: List the animals
+
+2: Add an animal
 -    animal species
 -    name of animal
--3: Call attendant to feed animals
--4: Exit program
+
+3: Call attendant to feed animals
+
+4: Exit program
 
 ## Technologies and Concepts Used
 
